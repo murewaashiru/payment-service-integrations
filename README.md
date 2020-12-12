@@ -10,14 +10,9 @@ Payment service refers to any service provided by a financial institution to all
 | Paystack        | Online   | Africa        |
 | PayPal          | Online   | North America |
 
-## How to Install and run the application
+## Note
 
-- Clone the application. In each of the folders, run the following commands
-- Run `npm install`
-- Run `cp .env.example .env` to create the .env variables and fill them
-- Run `npm run dev` to start development server
-
-NOTE: This repo is simply a guide. It does NOT include
+This repo is simply a guide. It does NOT include:
 
 1. Integrating to all the APIs of the service providers
 2. Interacting with a database
